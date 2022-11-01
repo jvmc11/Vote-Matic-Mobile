@@ -76,7 +76,7 @@ p{
 
 /*slide 1*/
 .slide1{
-    background: linear-gradient(rgba(0, 0, 255,0.3),rgb(255, 0, 255,0.3)), url(images/slide1.jpg);
+    background: linear-gradient(rgba(0, 0, 255,0.3),rgb(255, 0, 255,0.3)), url(Images/slide1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
@@ -114,7 +114,7 @@ p{
 
 /*slide 2*/
 .slide2{
-    background: linear-gradient(rgba(0, 0, 255,0.3),rgb(255, 0, 255,0.3)), url(images/slide2.jpg);
+    background: linear-gradient(rgba(0, 0, 255,0.3),rgb(255, 0, 255,0.3)), url(Images/slide2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
@@ -130,7 +130,7 @@ p{
 
 /*slide 3*/
 .slide3{
-    background: linear-gradient(rgba(0, 0, 255,0.3),rgb(255, 0, 255,0.3)), url(images/slide3.jpg);
+    background: linear-gradient(rgba(0, 0, 255,0.3),rgb(255, 0, 255,0.3)), url(Images/slide3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
